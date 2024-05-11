@@ -1,0 +1,9 @@
+.stButton >* {
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-top: 30px;
+    justify-self: center;
+    background-color: #262731;
+    color: red;
+}
